@@ -23,6 +23,8 @@ Ahmad
 https://github.com/Luigmntng
 ArullOfc
 https://github.com/Rullmem`
+LuxxyXyz
+https://github.com/alpinnio
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
