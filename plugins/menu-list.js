@@ -49,6 +49,7 @@ const defaultMenu = {
 ⫹⫺ Ilmanhdyt
 ⫹⫺ Hyzer
 ⫹⫺ ArullOfc
+⫹⫺ LuxxyXyz
 ╰─────────────㉿`,
 }
 
