@@ -12,8 +12,7 @@ ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
-Nih Link Sc Nya Dibawah :
-https://youtu.be/kRgV1-6Vh5M
+wkwkwkwk
 
 _*Jangan Lupa Di Subscribe*_`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
